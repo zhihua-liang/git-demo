@@ -4,3 +4,4 @@ hello world change on hot-fix today  123
 这是在hot-fix分支上修改的
 在github仓库上进行修改
 张三对这个文件进行修改
+在idea上对当前文件进行修改
